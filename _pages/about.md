@@ -34,7 +34,7 @@ University of Science and Technology of China (USTC),&nbsp; *09/2016 - 06/2020*
 
 # 📝 Publications 
 
-- <span class="badge">Preprint</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
+- <span class="badge" style="display:inline-block">Preprint</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
 
 - ``ICLR 2024`` [Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/pdf?id=ceATjGPTUD), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/RobustGER) [[Data]](https://huggingface.co/datasets/PeacefulData/Robust-HyPoradise)
 
