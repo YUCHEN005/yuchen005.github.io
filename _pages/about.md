@@ -70,7 +70,7 @@ University of Science and Technology of China (USTC),&nbsp; *09/2016 - 06/2020*
 
 
 # 💻 Internships
-Iflytek AI Research, *05/2020 - 07/2021*
+Iflytek AI Research & USTC NEL-SLIP, *05/2020 - 07/2021*
 * Research intern at ASR group. Supervisor: Lirong Dai.
 * Work on end-to-end ASR and speech translation.
 
