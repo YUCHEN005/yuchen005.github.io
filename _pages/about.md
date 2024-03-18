@@ -76,7 +76,7 @@ Iflytek AI Research, *05/2020 - 07/2021*
 - Winner of IWSLT 2021 Evaluation Campaign,&nbsp; *08/2021*
 - USTC Excellent Graduate (Top 10%),&nbsp; *06/2020*
 - Scholarship of SIMIT, Chinese Academy of Sciences (Top 5%),&nbsp; *10/2018*
-- USTC Outstanding Student Scholarship (Top 5%),&nbsp; *10/2017 \& 10/2019*
+- USTC Outstanding Student Scholarship (Top 5%),&nbsp; *10/2017 & 10/2019*
 
 
 
