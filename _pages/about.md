@@ -34,6 +34,25 @@ University of Science and Technology of China (USTC),&nbsp; *09/2016 - 06/2020*
 
 # 📝 Publications 
 
+[//]: # (----------- NIPS 2023 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='../images/NIPS2023_OOD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions](https://openreview.net/pdf?id=SA2KrosYjY )
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+Kai Liu, Zhihang Fu, Chao Chen, **Sheng Jin**, Ze Chen, Mingyuan Tao, Rongxin Jiang, Jieping Ye
+
+<i>NIPS, 2023</i>
+
+<a href="https://openreview.net/pdf?id=SA2KrosYjY">paper</a> 
+
+</div>
+</div>
+
+
 - ``Preprint`` [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
 
 - ``ICLR 2024`` [Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/pdf?id=ceATjGPTUD), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/RobustGER) [[Data]](https://huggingface.co/datasets/PeacefulData/Robust-HyPoradise)
@@ -76,7 +95,7 @@ Iflytek AI Research, *05/2020 - 07/2021*
 - Winner of IWSLT 2021 Evaluation Campaign,&nbsp; *08/2021*
 - USTC Excellent Graduate (Top 10%),&nbsp; *06/2020*
 - Scholarship of SIMIT, Chinese Academy of Sciences (Top 5%),&nbsp; *10/2018*
-- USTC Outstanding Student Scholarship (Top 5%),&nbsp; *10/2017 & 10/2019*
+- USTC Outstanding Student Scholarship (Top 5%),&nbsp; *10/2017 \& 10/2019*
 
 
 
