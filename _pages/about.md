@@ -23,11 +23,11 @@ Prior to this, I received my B.Eng. degree from University of Science and Techno
 My research focus on **large language model (LLM), automatic speech recognition (ASR), and multimodal**.
 
 # 📖 Education
-Nanyang Technological University (NTU),&nbsp; *08/2021 - 08/2025*
+**Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 08/2025*
 
 * Ph.D. in Computer Science. Supervisor: Eng Siong Chng.
 
-University of Science and Technology of China (USTC),&nbsp; *09/2016 - 06/2020*
+**University of Science and Technology of China (USTC)**,&nbsp; *09/2016 - 06/2020*
 
 * B.Eng. in Automation. GPA: 3.76/4.3 (Rank: top 5%)&nbsp; [[Transcript]](https://yuchen005.github.io/files/transcript_en_zh.pdf)
 
