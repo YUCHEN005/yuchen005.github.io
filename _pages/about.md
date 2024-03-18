@@ -34,11 +34,11 @@ University of Science and Technology of China (USTC),&nbsp; *09/2016 - 06/2020*
 
 # 📝 Publications 
 
-- ``Preprint`` [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) | [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
+- ``Preprint`` [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
 
-- ``ICLR 2024`` [Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/pdf?id=ceATjGPTUD), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/RobustGER) | [[Data]](https://huggingface.co/datasets/PeacefulData/Robust-HyPoradise)
+- ``ICLR 2024`` [Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/pdf?id=ceATjGPTUD), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/RobustGER) [[Data]](https://huggingface.co/datasets/PeacefulData/Robust-HyPoradise)
 
-- ``NeurIPS 2023`` [HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models](https://arxiv.org/abs/2309.15701), Chen Chen\*, **<u>Yuchen Hu</u>\***, Chao-Han Huck Yang, Sabato Marco Siniscalchi, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/Hypotheses-Paradise/Hypo2Trans) | [[Data]](https://huggingface.co/datasets/PeacefulData/HP-v0)
+- ``NeurIPS 2023`` [HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models](https://arxiv.org/abs/2309.15701), Chen Chen\*, **<u>Yuchen Hu</u>\***, Chao-Han Huck Yang, Sabato Marco Siniscalchi, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/Hypotheses-Paradise/Hypo2Trans) [[Data]](https://huggingface.co/datasets/PeacefulData/HP-v0)
 
 - ``ACL 2023`` [Hearing Lips in Noise: Universal Viseme-Phoneme Mapping and Transfer for Robust Audio-Visual Speech Recognition](https://aclanthology.org/2023.acl-long.848.pdf), **<u>Yuchen Hu</u>**, Ruizhe Li, Chen Chen, Chengwei Qin, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/UniVPM)
 
