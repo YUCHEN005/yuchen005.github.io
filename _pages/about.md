@@ -70,7 +70,7 @@ My research focus on **large language model (LLM), automatic speech recognition 
 
 
 # 💻 Internships
-Iflytek AI Research & USTC NEL-SLIP, *05/2020 - 07/2021*
+Iflytek AI Research &amp; USTC NEL-SLIP, *05/2020 - 07/2021*
 * Research intern at ASR group. Supervisor: Lirong Dai.
 * Work on end-to-end ASR and speech translation.
 
@@ -84,7 +84,7 @@ Iflytek AI Research & USTC NEL-SLIP, *05/2020 - 07/2021*
 - Winner of IWSLT 2021 Evaluation Campaign,&nbsp; *08/2021*
 - USTC Excellent Graduate (Top 10%),&nbsp; *06/2020*
 - Scholarship of SIMIT, Chinese Academy of Sciences (Top 5%),&nbsp; *10/2018*
-- USTC Outstanding Student Scholarship (Top 5%),&nbsp; *10/2017 & 10/2019*
+- USTC Outstanding Student Scholarship (Top 5%),&nbsp; *10/2017 &amp; 10/2019*
 
 
 
