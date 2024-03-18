@@ -58,7 +58,7 @@ University of Science and Technology of China (USTC),&nbsp; *09/2016 - 06/2020*
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2022</span>  [Interactive Feature Fusion for End-to-End Noise-Robust Speech Recognition](https://arxiv.org/abs/2110.05267), **<u>Yuchen Hu</u>**, Nana Hou, Chen Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/DPSL-ASR)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IWSLT 2021</span>  [The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021](https://arxiv.org/abs/2110.05267), Dan Liu, Mengge Du, Xiaoxi Li, **<u>Yuchen Hu</u>**, Lirong Dai. [[Paper]](https://aclanthology.org/2021.iwslt-1.2.pdf)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IWSLT 2021</span>  [The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021](https://aclanthology.org/2021.iwslt-1.2.pdf), Dan Liu, Mengge Du, Xiaoxi Li, **<u>Yuchen Hu</u>**, Lirong Dai.
 
 
 # 💻 Internships
