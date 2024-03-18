@@ -38,13 +38,21 @@ University of Science and Technology of China (USTC),&nbsp; *09/2016 - 06/2020*
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2024</span> [Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/pdf?id=ceATjGPTUD), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/RobustGER) [[Data]](https://huggingface.co/datasets/PeacefulData/Robust-HyPoradise)
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2024</span> [It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition](https://openreview.net/pdf?id=QqjFHyQwtF), Chen Chen, Ruizhe Li, **<u>Yuchen Hu</u>**, Sabato Marco Siniscalchi, Pin-Yu Chen, Ensiong Chng, Chao-Han Huck Yang. 
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2023</span> [HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models](https://arxiv.org/abs/2309.15701), Chen Chen\*, **<u>Yuchen Hu</u>\***, Chao-Han Huck Yang, Sabato Marco Siniscalchi, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/Hypotheses-Paradise/Hypo2Trans) [[Data]](https://huggingface.co/datasets/PeacefulData/HP-v0)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2024</span> [Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-modal Speech Representation](https://arxiv.org/abs/2401.03468), Qiushi Zhu, Jie Zhang, Yu Gu, **<u>Yuchen Hu</u>**, Lirong Dai. [[Code]](https://github.com/zqs01/multi-channel-wav2vec2)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2023</span> [Hearing Lips in Noise: Universal Viseme-Phoneme Mapping and Transfer for Robust Audio-Visual Speech Recognition](https://aclanthology.org/2023.acl-long.848.pdf), **<u>Yuchen Hu</u>**, Ruizhe Li, Chen Chen, Chengwei Qin, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/UniVPM)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2023</span> [MIR-GAN: Refining Frame-Level Modality-Invariant Representations with Adversarial Network for Audio-Visual Speech Recognition](https://aclanthology.org/2023.acl-long.649.pdf), **<u>Yuchen Hu</u>**, Chen Chen, Ruizhe Li, Heqing Zou, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/MIR-GAN)
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2023</span> [UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning](https://aclanthology.org/2023.findings-acl.41.pdf), Heqing Zou, Meng Shen, Chen Chen, **<u>Yuchen Hu</u>**, Deepu Rajan, Eng Siong Chng. [[Code]](https://github.com/vincent-zhq/unis-mmc)
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IJCAI 2023</span> [Cross-Modal Global Interaction and Local Alignment for Audio-Visual Speech Recognition](https://www.ijcai.org/proceedings/2023/0564.pdf), **<u>Yuchen Hu</u>**, Ruizhe Li, Chen Chen, Heqing Zou, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GILA)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2023</span> [Leveraging Modality-specific Representations for Audio-visual Speech Recognition via Reinforcement Learning](https://arxiv.org/abs/2212.05301), Chen Chen, **<u>Yuchen Hu</u>**, Qiang Zhang, Heqing Zou, Beier Zhu, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE/ACM TASLP 2023</span>  [Wav2code: Restore Clean Speech Representations via Codebook Lookup for Noise-Robust ASR](https://arxiv.org/abs/2304.04974), **<u>Yuchen Hu</u>**, Chen Chen, Qiushi Zhu, Eng Siong Chng.
 
@@ -83,3 +91,8 @@ Iflytek AI Research, *05/2020 - 07/2021*
 Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=tWtQE7TmvuyYwZoMvhZ03hz9JwVV2jqLDfST5K4doxk&co=9fc7e3&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+
+
+
+
+
