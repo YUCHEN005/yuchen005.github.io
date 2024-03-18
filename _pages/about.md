@@ -22,7 +22,7 @@ Prior to this, I received my B.Eng. degree from University of Science and Techno
 
 My research focus on **large language model (LLM), automatic speech recognition (ASR), and multimodal**.
 
-# 📖 Educations
+# 📖 Education
 Nanyang Technological University (NTU),&nbsp; *08/2021 - 08/2025*
 
 * Ph.D. in Computer Science. Supervisor: Eng Siong Chng.
@@ -75,7 +75,7 @@ Iflytek AI Research & USTC NEL-SLIP, *05/2020 - 07/2021*
 * Work on end-to-end ASR and speech translation.
 
 
-# 🧑‍🔬 Service
+# 🧑‍🔬 Services
 - **Reviewer:**&nbsp; ACL (23-24), ARR (23-24), EMNLP (23), AAAI (24), ICASSP (22,24), InterSpeech (22-23)
 - **Volunteer:**&nbsp; EMNLP (23), ICASSP (22)
 
