@@ -44,7 +44,7 @@ My research focus on **large language model (LLM), speech processing, and multim
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [An Experimental Comparison of Noise-Robust Text-To-Speech Synthesis Systems Based On Self-Supervised Representation](https://yuchen005.github.io/files/zhao2024experimental.pdf), Xiaoying Zhao, Qiushi Zhu, **<u>Yuchen Hu</u>**. [[Demo]](https://zzftts.github.io/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection](https://arxiv.org/abs/2401.05746), Heqing Zou, Meng Shen, **<u>Yuchen Hu</u>**, Chen Chen, Eng Siong Chng, and Deepu Rajan. [[Code]](https://github.com/Vincent-ZHQ/MRDF)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection](https://arxiv.org/abs/2401.05746), Heqing Zou, Meng Shen, **<u>Yuchen Hu</u>**, Chen Chen, Eng Siong Chng, Deepu Rajan. [[Code]](https://github.com/Vincent-ZHQ/MRDF)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2024</span> [Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-modal Speech Representation](https://arxiv.org/abs/2401.03468), Qiushi Zhu, Jie Zhang, Yu Gu, **<u>Yuchen Hu</u>**, Lirong Dai. [[Code]](https://github.com/zqs01/multi-channel-wav2vec2)
 
@@ -72,17 +72,17 @@ My research focus on **large language model (LLM), speech processing, and multim
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Gradient Remedy for Multi-Task Learning in End-to-End Noise-Robust Speech Recognition](https://arxiv.org/abs/2302.11362), **<u>Yuchen Hu</u>**, Chen Chen, Ruizhe Li, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/Gradient-Remedy)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Robust Data2vec: Noise-robust Speech Representation Learning for ASR by Combining Regression and Improved Contrastive Learning](), Qiushi Zhu, Long Zhou, Jie Zhang, Shujie Liu, **<u>Yuchen Hu</u>**, and Lirong Dai. [[Code]](https://github.com/zqs01/data2vecnoisy)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Robust Data2vec: Noise-robust Speech Representation Learning for ASR by Combining Regression and Improved Contrastive Learning](https://arxiv.org/abs/2210.15324), Qiushi Zhu, Long Zhou, Jie Zhang, Shujie Liu, **<u>Yuchen Hu</u>**, Lirong Dai. [[Code]](https://github.com/zqs01/data2vecnoisy)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Metric-oriented Speech Enhancement Using Diffusion Probabilistic Model](https://arxiv.org/abs/2302.11989), Chen Chen, **<u>Yuchen Hu</u>**, Weiwei Weng, and Eng Siong Chng.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Metric-oriented Speech Enhancement Using Diffusion Probabilistic Model](https://arxiv.org/abs/2302.11989), Chen Chen, **<u>Yuchen Hu</u>**, Weiwei Weng, Eng Siong Chng.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Unsupervised Noise Adaptation using Data Simulation](https://arxiv.org/abs/2302.11981), Chen Chen, **<u>Yuchen Hu</u>**, Heqing Zou, Linhui Sun, and Eng Siong Chng.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Unsupervised Noise Adaptation using Data Simulation](https://arxiv.org/abs/2302.11981), Chen Chen, **<u>Yuchen Hu</u>**, Heqing Zou, Linhui Sun, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2022</span>  [Interactive Audio-text Representation for Automated Audio Captioning with Contrastive Learning](https://www.isca-archive.org/interspeech_2022/chen22p_interspeech.pdf), Chen Chen, Nana Hou, **<u>Yuchen Hu</u>**, Heqing Zou, Xiaofeng Qi, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2022</span>  [Interactive Feature Fusion for End-to-End Noise-Robust Speech Recognition](https://arxiv.org/abs/2110.05267), **<u>Yuchen Hu</u>**, Nana Hou, Chen Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/DPSL-ASR)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2022</span>  [Noise-robust Speech Recognition with 10 Minutes Unparalleled In-domain Data](https://arxiv.org/pdf/2203.15321), Chen Chen, Nana Hou, **<u>Yuchen Hu</u>**, Shashank Shirol, and Eng Siong Chng.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2022</span>  [Noise-robust Speech Recognition with 10 Minutes Unparalleled In-domain Data](https://arxiv.org/pdf/2203.15321), Chen Chen, Nana Hou, **<u>Yuchen Hu</u>**, Shashank Shirol, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2022</span>  [Self-Critical Sequence Training for Automatic Speech Recognition](https://arxiv.org/abs/2204.06260), Chen Chen, **<u>Yuchen Hu</u>**, Nana Hou, Xiaofeng Qi, Heqing Zou, Eng Siong Chng.
 
