@@ -24,7 +24,7 @@ My research topics are:
 
 - **Large Language Model (LLM):** Generative Sequence-to-Sequence Learning, Multimodal Prompting;
 
-- **Speech Processing:** Speech Recognition / Translation / Synthesis, Efficient Adaptation of Foundation Models;
+- **Speech Processing:** Speech Recognition / Translation / Synthesis / Enhancement, Efficient Adaptation of Foundation Models;
 
 - **Multimodal:** Audio-Visual Representation Learning;
 
