@@ -20,7 +20,7 @@ redirect_from:
 I am currently a 3<sup>rd</sup>-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
 Prior to this, I received my B.Eng. degree from University of Science and Technology of China in 2020.
 
-My research focus on **large language model (LLM), automatic speech recognition (ASR), and multimodal**.
+My research focus on **large language model (LLM), speech processing, and multimodal**.
 
 # 📖 Education
 **Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 08/2025*
@@ -42,6 +42,10 @@ My research focus on **large language model (LLM), automatic speech recognition 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2023</span> [HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models](https://arxiv.org/abs/2309.15701), Chen Chen\*, **<u>Yuchen Hu</u>\***, Chao-Han Huck Yang, Sabato Marco Siniscalchi, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/Hypotheses-Paradise/Hypo2Trans) [[Data]](https://huggingface.co/datasets/PeacefulData/HP-v0)
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [An Experimental Comparison of Noise-Robust Text-To-Speech Synthesis Systems Based On Self-Supervised Representation](https://yuchen005.github.io/files/zhao2024experimental.pdf), Xiaoying Zhao, Qiushi Zhu, **<u>Yuchen Hu</u>**. [[Demo]](https://zzftts.github.io/)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection](https://arxiv.org/abs/2401.05746), Heqing Zou, Meng Shen, **<u>Yuchen Hu</u>**, Chen Chen, Eng Siong Chng, and Deepu Rajan. [[Code]](https://github.com/Vincent-ZHQ/MRDF)
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2024</span> [Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-modal Speech Representation](https://arxiv.org/abs/2401.03468), Qiushi Zhu, Jie Zhang, Yu Gu, **<u>Yuchen Hu</u>**, Lirong Dai. [[Code]](https://github.com/zqs01/multi-channel-wav2vec2)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2023</span> [Hearing Lips in Noise: Universal Viseme-Phoneme Mapping and Transfer for Robust Audio-Visual Speech Recognition](https://aclanthology.org/2023.acl-long.848.pdf), **<u>Yuchen Hu</u>**, Ruizhe Li, Chen Chen, Chengwei Qin, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/UniVPM)
@@ -58,13 +62,29 @@ My research focus on **large language model (LLM), automatic speech recognition 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span>  [Noise-aware Speech Enhancement using Diffusion Probabilistic Model](https://arxiv.org/abs/2307.08029), **<u>Yuchen Hu</u>**, Chen Chen, Ruizhe Li, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/NASE)
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span>  [Rep2wav: Noise Robust Text-to-speech Using Self-supervised Representations](https://arxiv.org/pdf/2308.14553), Qiushi Zhu, Yu Gu, Chao Weng, **<u>Yuchen Hu</u>**, Lirong Dai, Jie Zhang. [[Demo]](https://zqs01.github.io/rep2wav/)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2023</span>  [Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition](https://www.isca-archive.org/interspeech_2023/hu23_interspeech.pdf), **<u>Yuchen Hu</u>**, Nana Hou, Chen Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/DPSL-ASR)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2023</span>  [A Neural State-space Model Approach to Efficient Speech Separation](https://www.isca-archive.org/interspeech_2023/chen23g_interspeech.pdf), Chen Chen, Chao-Han Huck Yang, Kai Li, **<u>Yuchen Hu</u>**, Pin-Jui Ku, Eng Siong Chng.
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Unifying Speech Enhancement and Separation with Gradient Modulation for End-to-End Noise-Robust Speech Separation](https://arxiv.org/abs/2302.11131), **<u>Yuchen Hu</u>**, Chen Chen, Heqing Zou, Xionghu Zhong, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/Unified-Enhance-Separation)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Gradient Remedy for Multi-Task Learning in End-to-End Noise-Robust Speech Recognition](https://arxiv.org/abs/2302.11362), **<u>Yuchen Hu</u>**, Chen Chen, Ruizhe Li, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/Gradient-Remedy)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2023</span>  [Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition](https://www.isca-archive.org/interspeech_2023/hu23_interspeech.pdf), **<u>Yuchen Hu</u>**, Nana Hou, Chen Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/DPSL-ASR)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Robust Data2vec: Noise-robust Speech Representation Learning for ASR by Combining Regression and Improved Contrastive Learning](), Qiushi Zhu, Long Zhou, Jie Zhang, Shujie Liu, **<u>Yuchen Hu</u>**, and Lirong Dai. [[Code]](https://github.com/zqs01/data2vecnoisy)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Metric-oriented Speech Enhancement Using Diffusion Probabilistic Model](https://arxiv.org/abs/2302.11989), Chen Chen, **<u>Yuchen Hu</u>**, Weiwei Weng, and Eng Siong Chng.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span>  [Unsupervised Noise Adaptation using Data Simulation](https://arxiv.org/abs/2302.11981), Chen Chen, **<u>Yuchen Hu</u>**, Heqing Zou, Linhui Sun, and Eng Siong Chng.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2022</span>  [Interactive Audio-text Representation for Automated Audio Captioning with Contrastive Learning](https://www.isca-archive.org/interspeech_2022/chen22p_interspeech.pdf), Chen Chen, Nana Hou, **<u>Yuchen Hu</u>**, Heqing Zou, Xiaofeng Qi, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2022</span>  [Interactive Feature Fusion for End-to-End Noise-Robust Speech Recognition](https://arxiv.org/abs/2110.05267), **<u>Yuchen Hu</u>**, Nana Hou, Chen Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/DPSL-ASR)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2022</span>  [Noise-robust Speech Recognition with 10 Minutes Unparalleled In-domain Data](https://arxiv.org/pdf/2203.15321), Chen Chen, Nana Hou, **<u>Yuchen Hu</u>**, Shashank Shirol, and Eng Siong Chng.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2022</span>  [Self-Critical Sequence Training for Automatic Speech Recognition](https://arxiv.org/abs/2204.06260), Chen Chen, **<u>Yuchen Hu</u>**, Nana Hou, Xiaofeng Qi, Heqing Zou, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IWSLT 2021</span>  [The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021](https://aclanthology.org/2021.iwslt-1.2.pdf), Dan Liu, Mengge Du, Xiaoxi Li, **<u>Yuchen Hu</u>**, Lirong Dai.
 
