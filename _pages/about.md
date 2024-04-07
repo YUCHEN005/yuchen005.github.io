@@ -20,11 +20,11 @@ redirect_from:
 I am currently a 3<sup>rd</sup>-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
 Prior to this, I received my B.Eng. degree from University of Science and Technology of China in 2020.
 
-My research focus on:
+My research topics include:
 
 - **Large Language Model (LLM):** Generative Sequence-to-Sequence Learning, Multimodal Prompting;
 
-- **Speech Processing:** Speech Recognition, Translation, Synthesis, Enhancement;
+- **Speech Processing:** Speech Recognition, Translation, Synthesis, Enhancement, and Separation;
 
 - **Multimodal:** Audio-Visual Representation Learning;
 
