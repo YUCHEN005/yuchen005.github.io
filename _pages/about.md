@@ -35,7 +35,7 @@ My research topics are:
 
 **University of Science and Technology of China (USTC)**,&nbsp; *09/2016 - 06/2020*
 
-* B.Eng. in Automation. GPA: 3.76/4.3 (Rank: top 5%)&nbsp; [[Transcript]](https://yuchen005.github.io/files/transcript_en_zh.pdf)
+* B.Eng. in Automation. GPA: 3.76/4.3 (Rank: Top 5%)&nbsp; [[Transcript]](https://yuchen005.github.io/files/transcript_en_zh.pdf)
 
 
 # 📝 Publications 
