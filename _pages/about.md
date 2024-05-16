@@ -40,9 +40,14 @@ My research topics are:
 
 # 📝 Publications 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> Self-Taught Recognizer: Toward Adaptive Speech Foundation Models with Unlabeled Data, **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Chao Zhang, Pin-Yu Chen, Eng Siong Chng.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models, **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Chengwei Qin, Pin-Yu Chen, EngSiong Chng, Chao Zhang.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models](), **<u>Yuchen Hu</u>**, Chen Chen, Chengwei Qin, Qiushi Zhu, EngSiong Chng, Ruizhe Li.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> 	
+[Overcoming Catastrophic Forgetting by Exemplar Selection in Task-oriented Dialogue System](), Chen Chen, Ruizhe Li, **<u>Yuchen Hu</u>**, Yuanyuan Chen, Chengwei Qin, Qiang Zhang.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2024</span> <span style="color:red">(Spotlight, Top 5%)</span> [Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/pdf?id=ceATjGPTUD), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/RobustGER) [[Data]](https://huggingface.co/datasets/PeacefulData/Robust-HyPoradise)
 
@@ -67,9 +72,6 @@ My research topics are:
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2023</span> <span style="color:red">(Oral)</span> [Leveraging Modality-specific Representations for Audio-visual Speech Recognition via Reinforcement Learning](https://arxiv.org/abs/2212.05301), Chen Chen, **<u>Yuchen Hu</u>**, Qiang Zhang, Heqing Zou, Beier Zhu, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE/ACM TASLP 2023</span>  [Wav2code: Restore Clean Speech Representations via Codebook Lookup for Noise-Robust ASR](https://arxiv.org/abs/2304.04974), **<u>Yuchen Hu</u>**, Chen Chen, Qiushi Zhu, Eng Siong Chng.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> 	
-Overcoming Catastrophic Forgetting by Exemplar Selection in Task-oriented Dialogue System, Chen Chen, Ruizhe Li, **<u>Yuchen Hu</u>**, Yuanyuan Chen, Chengwei Qin, Qiang Zhang.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span>  [Noise-aware Speech Enhancement using Diffusion Probabilistic Model](https://arxiv.org/abs/2307.08029), **<u>Yuchen Hu</u>**, Chen Chen, Ruizhe Li, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/NASE)
 
