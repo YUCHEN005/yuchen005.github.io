@@ -40,7 +40,7 @@ My research topics are:
 
 # 📝 Publications 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models, **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Chengwei Qin, Pin-Yu Chen, EngSiong Chng, Chao Zhang.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models, **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Chengwei Qin, Pin-Yu Chen, Eng Siong Chng, Chao Zhang.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
 
