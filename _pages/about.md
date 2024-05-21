@@ -26,7 +26,7 @@ My research topics are:
 
 - **Speech Processing:** Efficient Adaptation of Speech Foundation Models, Speech Recognition&thinsp;/&thinsp;Translation&thinsp;/&thinsp;Enhancement;
 
-- **Multimodal:** Audio-Visual Representation Learning;
+- **Multimodal:** Audio-Visual Representation Learning, Speech Prompting of LLMs;
 
 # 📖 Education
 **Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 08/2025*
@@ -40,7 +40,7 @@ My research topics are:
 
 # 📝 Publications 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback, Chen Chen, **<u>Yuchen Hu</u>\***, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback, Chen Chen\*, **<u>Yuchen Hu</u>\***, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models, **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Chengwei Qin, Pin-Yu Chen, Eng Siong Chng, Chao Zhang.
 
