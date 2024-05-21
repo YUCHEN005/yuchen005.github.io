@@ -22,9 +22,9 @@ Prior to this, I received my B.Eng. degree from University of Science and Techno
 
 My research topics are:
 
-- **Large Language Models (LLMs):** Generative Seq2seq Learning, Multimodal Prompting;
+- **Large Language Models (LLMs):** Generative Seq2seq Learning, Text-to-Speech Synthesis with RLHF;
 
-- **Speech Processing:** Speech Recognition&thinsp;/&thinsp;Translation&thinsp;/&thinsp;Synthesis&thinsp;/&thinsp;Enhancement, Efficient Adaptation of Foundation Models;
+- **Speech Processing:** Efficient Adaptation of Speech Foundation Models, Speech Recognition&thinsp;/&thinsp;Translation&thinsp;/&thinsp;Enhancement;
 
 - **Multimodal:** Audio-Visual Representation Learning;
 
