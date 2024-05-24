@@ -40,9 +40,9 @@ My research topics are:
 
 # 📝 Publications 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback, Chen Chen\*, **<u>Yuchen Hu</u>\***, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://yuchen005.github.io/files/ccyc2024tts.pdf), Chen Chen\*, **<u>Yuchen Hu</u>\***, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://uno-tts.github.io/listening-examples/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models, **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Chengwei Qin, Pin-Yu Chen, Eng Siong Chng, Chao Zhang.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models](https://arxiv.org/pdf/2405.14161), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Chengwei Qin, Pin-Yu Chen, Eng Siong Chng, Chao Zhang. [[Code]](https://github.com/YUCHEN005/STAR-Adapt)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/pdf/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
 
@@ -75,7 +75,7 @@ My research topics are:
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE/ACM TASLP 2023</span>  [Wav2code: Restore Clean Speech Representations via Codebook Lookup for Noise-Robust ASR](https://arxiv.org/pdf/2304.04974), **<u>Yuchen Hu</u>**, Chen Chen, Qiushi Zhu, Eng Siong Chng.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span>  [Noise-aware Speech Enhancement using Diffusion Probabilistic Model](https://arxiv.org/pdf/2307.08029), **<u>Yuchen Hu</u>**, Chen Chen, Ruizhe Li, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/NASE)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2024</span>  [Noise-aware Speech Enhancement using Diffusion Probabilistic Model](https://arxiv.org/pdf/2307.08029), **<u>Yuchen Hu</u>**, Chen Chen, Ruizhe Li, Qiushi Zhu, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/NASE)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span>  [Rep2wav: Noise Robust Text-to-speech Using Self-supervised Representations](https://arxiv.org/pdf/2308.14553), Qiushi Zhu, Yu Gu, Chao Weng, **<u>Yuchen Hu</u>**, Lirong Dai, Jie Zhang. [[Demo]](https://zqs01.github.io/rep2wav/)
 
