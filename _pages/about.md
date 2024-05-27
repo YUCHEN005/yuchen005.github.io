@@ -46,7 +46,7 @@ My research topics are:
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/pdf/2402.06894), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models](https://arxiv.org/pdf/2405.10025), **<u>Yuchen Hu</u>**, Chen Chen, Chengwei Qin, Qiushi Zhu, EngSiong Chng, Ruizhe Li.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models](https://arxiv.org/pdf/2405.10025), **<u>Yuchen Hu</u>**, Chen Chen, Chengwei Qin, Qiushi Zhu, Eng Siong Chng, Ruizhe Li.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> 	
 [Overcoming Catastrophic Forgetting by Exemplar Selection in Task-oriented Dialogue System](https://arxiv.org/pdf/2405.10992), Chen Chen, Ruizhe Li, **<u>Yuchen Hu</u>**, Yuanyuan Chen, Chengwei Qin, Qiang Zhang.
