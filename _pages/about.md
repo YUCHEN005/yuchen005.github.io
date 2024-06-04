@@ -40,7 +40,7 @@ My research topics are:
 
 # 📝 Publications 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://yuchen005.github.io/files/ccyc2024tts.pdf), Chen Chen\*, **<u>Yuchen Hu</u>\***, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://uno-tts.github.io/listening-examples/)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://arxiv.org/pdf/2406.00654), Chen Chen\*, **<u>Yuchen Hu</u>\***, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://uno-tts.github.io/listening-examples/)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models](https://arxiv.org/pdf/2405.14161), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Chengwei Qin, Pin-Yu Chen, Eng Siong Chng, Chao Zhang. [[Code]](https://github.com/YUCHEN005/STAR-Adapt)
 
