@@ -37,7 +37,6 @@ My research topics are:
 
 * B.Eng. in Automation. GPA: 3.76/4.3 (Rank: Top 5%)&nbsp; [[Transcript]](https://yuchen005.github.io/files/transcript_en_zh.pdf)
 
-
 # 📝 Publications 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Improving Robustness of Zero-shot Text-to-Speech Synthesis with Reverse Inference Optimization](), **<u>Yuchen Hu</u>**, Chen Chen, Siyin Wang, Eng Siong Chng, Chao Zhang.
