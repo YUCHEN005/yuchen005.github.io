@@ -39,7 +39,7 @@ My research topics are:
 
 # 📝 Publications 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Improving Robustness of Zero-shot Text-to-Speech Synthesis with Reverse Inference Optimization](), **<u>Yuchen Hu</u>**, Chen Chen, Siyin Wang, Eng Siong Chng, Chao Zhang.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Improving Robustness of Zero-shot Text-to-Speech Synthesis with Reverse Inference Optimization](), **<u>Yuchen Hu</u>**, Chen Chen, Siyin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://yuchen005.github.io/RIO-TTS-demos/)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://arxiv.org/pdf/2406.00654), Chen Chen\*, **<u>Yuchen Hu</u>\***, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://yuchen005.github.io/UNO-TTS-demos/)
 
