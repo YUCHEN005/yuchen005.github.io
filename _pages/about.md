@@ -29,7 +29,7 @@ My research topics are:
 - **Multimodal:** Audio-Visual Representation Learning, Speech Prompting of LLMs;
 
 # 📖 Education
-**Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 08/2025*
+**Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 10/2025*
 
 * Ph.D. in Computer Science. Supervisor: Eng Siong Chng.
 
