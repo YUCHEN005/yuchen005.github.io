@@ -22,11 +22,11 @@ Prior to this, I received my B.Eng. degree from University of Science and Techno
 
 My research topics are:
 
-- **Large Language Models (LLMs):** Generative Seq2seq Learning, Text-to-Speech Synthesis with RLHF;
+- **Large Language Models (LLMs):** Generative Seq2seq Learning, Speech LLMs, Text-to-Speech Synthesis with RLHF;
 
 - **Speech Processing:** Efficient Adaptation of Speech Foundation Models, Speech Recognition&thinsp;/&thinsp;Translation&thinsp;/&thinsp;Enhancement;
 
-- **Multimodal:** Audio-Visual Representation Learning, Speech Prompting of LLMs;
+- **Multimodal:** Audio-Visual Representation Learning, Video-to-Audio Generation;
 
 # 📖 Education
 **Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 08/2025*
