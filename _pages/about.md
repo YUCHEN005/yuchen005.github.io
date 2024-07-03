@@ -39,7 +39,7 @@ My research topics are:
 
 # 📝 Publications 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Improving Robustness of Zero-shot Text-to-Speech Synthesis with Reverse Inference Optimization](), **<u>Yuchen Hu</u>**, Chen Chen, Siyin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://yuchen005.github.io/RIO-TTS-demos/)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization](https://arxiv.org/pdf/2407.02243), **<u>Yuchen Hu</u>**, Chen Chen, Siyin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://yuchen005.github.io/RIO-TTS-demos/)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://arxiv.org/pdf/2406.00654), Chen Chen\*, **<u>Yuchen Hu</u>\***, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://yuchen005.github.io/UNO-TTS-demos/)
 
@@ -112,7 +112,7 @@ Iflytek AI Research &amp; USTC NEL-SLIP, *05/2020 - 07/2021*
 
 
 # 🧑‍🔬 Services
-- **Reviewer:**&nbsp; ACL (23-24), ARR (23-24), EMNLP (23), AAAI (24), ICASSP (22,24), InterSpeech (22-24)
+- **Reviewer:**&nbsp; NeurIPS (24), ACL (23-24), EMNLP (23-24), AAAI (24-25), ICASSP (22,24), InterSpeech (22-24), IEEE SPL
 - **Volunteer:**&nbsp; EMNLP (23), ICASSP (22)
 
 
