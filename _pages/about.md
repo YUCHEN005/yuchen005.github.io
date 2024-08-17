@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3<sup>rd</sup>-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
+I am currently a 4<sup>th</sup>-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
 Prior to this, I received my B.Eng. degree from University of Science and Technology of China in 2020.
 
 My research topics are:
