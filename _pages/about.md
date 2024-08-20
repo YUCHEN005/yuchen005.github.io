@@ -112,7 +112,7 @@ Iflytek AI Research &amp; USTC NEL-SLIP, *05/2020 - 07/2021*
 
 
 # 🧑‍🔬 Services
-- **Reviewer:**&nbsp; NeurIPS (24), ACL (23-24), EMNLP (23-24), AAAI (24-25), ICASSP (22,24), InterSpeech (22-24), IEEE SPL
+- **Reviewer:**&nbsp; NeurIPS (24), ACL (23-24), EMNLP (23-24), AAAI (24-25), ICASSP (22,24), InterSpeech (22-24), IEEE/ACM TASLP, IEEE SPL
 - **Volunteer:**&nbsp; EMNLP (23), ICASSP (22)
 
 
