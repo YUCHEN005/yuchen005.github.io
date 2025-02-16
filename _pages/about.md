@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 4<sup>th</sup>-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
+I am currently a final-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
 Prior to this, I received my B.Eng. degree from University of Science and Technology of China in 2020.
 
 My research topics are:
 
-- **Large Language Models (LLMs):** Generative Seq2seq Learning, Speech LLMs, Text-to-Speech Synthesis with RLHF;
+- **Speech LLMs:** Full-duplex Speech Dialog Systems, Text-to-Speech Synthesis (Streaming, RLHF), Generative Seq2seq Learning;
 
 - **Speech Processing:** Efficient Adaptation of Speech Foundation Models, Speech Recognition&thinsp;/&thinsp;Translation&thinsp;/&thinsp;Enhancement;
 
-- **Multimodal:** Audio-Visual Representation Learning, Video-to-Audio Generation;
+- **Multimodal:** Video-to-Audio Generation, Audio-Visual Understanding;
 
 # 📖 Education
 **Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 08/2025*
@@ -38,6 +38,12 @@ My research topics are:
 * B.Eng. in Automation. GPA: 3.76/4.3 (Rank: Top 5%)&nbsp; [[Transcript]](https://yuchen005.github.io/files/transcript_en_zh.pdf)
 
 # 📝 Publications 
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [Audio Large Language Models Can Be Descriptive Speech Quality Evaluators](https://openreview.net/pdf?id=U42TkrEDzb), Chen Chen, **<u>Yuchen Hu</u>**, Siyin Wang, Helin Wang, Zhehuai Chen, Chao Zhang, Chao-Han Huck Yang, Eng Siong Chng.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling](https://openreview.net/pdf?id=1p6xFLBU4J), Jixun Yao, Hexin Liu, Chen Chen, **<u>Yuchen Hu</u>**, Eng Siong Chng, Lei Xie.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Video-to-Audio Generation with Fine-grained Temporal Semantics](https://arxiv.org/pdf/2409.14709), **<u>Yuchen Hu</u>**, Yu Gu, Chenxing Li, Rilin Chen, Dong Yu. [[Demo]](https://sounddemos.github.io/vta-sam/)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization](https://arxiv.org/pdf/2407.02243), **<u>Yuchen Hu</u>**, Chen Chen, Siyin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://yuchen005.github.io/RIO-TTS-demos/)
 
