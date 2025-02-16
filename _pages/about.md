@@ -111,14 +111,23 @@ My research topics are:
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IWSLT 2021</span>  [The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021](https://aclanthology.org/2021.iwslt-1.2.pdf), Dan Liu, Mengge Du, Xiaoxi Li, **<u>Yuchen Hu</u>**, Lirong Dai.
 
 
-# 💻 Internships
-Iflytek AI Research &amp; USTC NEL-SLIP, *05/2020 - 07/2021*
-* Research intern at ASR group. Supervisor: Lirong Dai.
+# 💻 Internships \& Collabration
+
+**Shanghai AI Lab**, *11/2024 - Present*
+* Research collabration. Supervisor: Chao Zhang.
+* Work on omni and full-duplex speech dialog systems.
+
+**Tencent AI Lab**, *02/2024 - 09/2024*
+* Research intern. Supervisor: Yu Gu.
+* Work on video-to-audio generation.
+
+**Iflytek AI Research &amp; USTC NEL-SLIP**, *05/2020 - 07/2021*
+* Research intern. Supervisor: Lirong Dai.
 * Work on end-to-end ASR and speech translation.
 
 
 # 🧑‍🔬 Services
-- **Reviewer:**&nbsp; NeurIPS (24), ICLR (25), ACL (23-24), EMNLP (23-24), AAAI (24-25), ICASSP (22-25), InterSpeech (22-24), IEEE/ACM TASLP, IEEE SPL
+- **Reviewer:**&nbsp; ICML (25), NeurIPS (24), ICLR (25), ACL (23-25), EMNLP (23-24), AAAI (24-25), ICASSP (22-25), InterSpeech (22-25), IEEE/ACM TASLP, IEEE SPL
 - **Volunteer:**&nbsp; EMNLP (23), ICASSP (22)
 
 
