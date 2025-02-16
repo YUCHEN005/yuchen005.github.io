@@ -111,7 +111,7 @@ My research topics are:
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IWSLT 2021</span>  [The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021](https://aclanthology.org/2021.iwslt-1.2.pdf), Dan Liu, Mengge Du, Xiaoxi Li, **<u>Yuchen Hu</u>**, Lirong Dai.
 
 
-# 💻 Internships \& Collabration
+# 💻 Internships & Collabration
 
 **Shanghai AI Lab**, *11/2024 - Present*
 * Research collabration. Supervisor: Chao Zhang.
