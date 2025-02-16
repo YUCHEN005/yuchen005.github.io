@@ -24,7 +24,7 @@ My research topics are:
 
 - **Speech LLMs:** Full-duplex Speech Dialog Systems, Text-to-Speech Synthesis (Streaming, RLHF), Generative Seq2seq Learning;
 
-- **Speech Processing:** Efficient Adaptation of Speech Foundation Models, Speech Recognition&thinsp;/&thinsp;Translation&thinsp;/&thinsp;Enhancement;
+- **Speech Processing:** Speech Recognition&thinsp;/&thinsp;Translation&thinsp;/&thinsp;Enhancement, Efficient Adaptation of Foundation Models;
 
 - **Multimodal:** Video-to-Audio Generation, Audio-Visual Understanding;
 
