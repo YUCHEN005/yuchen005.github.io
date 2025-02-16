@@ -29,7 +29,7 @@ My research topics are:
 - **Multimodal:** Video-to-Audio Generation, Audio-Visual Understanding;
 
 # 📖 Education
-**Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 08/2025*
+**Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 06/2025*
 
 * Ph.D. in Computer Science. Supervisor: Eng Siong Chng.
 
