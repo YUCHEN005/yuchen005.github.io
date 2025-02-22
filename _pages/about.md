@@ -39,7 +39,7 @@ My research topics are:
 
 # 📝 Publications 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [Audio Large Language Models Can Be Descriptive Speech Quality Evaluators](https://openreview.net/pdf?id=U42TkrEDzb), Chen Chen, **<u>Yuchen Hu</u>**, Siyin Wang, Helin Wang, Zhehuai Chen, Chao Zhang, Chao-Han Huck Yang, Eng Siong Chng.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [Audio Large Language Models Can Be Descriptive Speech Quality Evaluators](https://www.arxiv.org/pdf/2501.17202), Chen Chen, **<u>Yuchen Hu</u>**, Siyin Wang, Helin Wang, Zhehuai Chen, Chao Zhang, Chao-Han Huck Yang, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling](https://openreview.net/pdf?id=1p6xFLBU4J), Jixun Yao, Hexin Liu, Chen Chen, **<u>Yuchen Hu</u>**, Eng Siong Chng, Lei Xie.
 
