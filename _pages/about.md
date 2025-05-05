@@ -43,8 +43,6 @@ My research topics are:
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling](https://openreview.net/pdf?id=1p6xFLBU4J), Jixun Yao, Hexin Liu, Chen Chen, **<u>Yuchen Hu</u>**, Eng Siong Chng, Lei Xie.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Video-to-Audio Generation with Fine-grained Temporal Semantics](https://arxiv.org/pdf/2409.14709), **<u>Yuchen Hu</u>**, Yu Gu, Chenxing Li, Rilin Chen, Dong Yu. [[Demo]](https://sounddemos.github.io/vta-sam/)
-
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization](https://arxiv.org/pdf/2407.02243), **<u>Yuchen Hu</u>**, Chen Chen, Siyin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://yuchen005.github.io/RIO-TTS-demos/)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://arxiv.org/pdf/2406.00654), Chen Chen\*, **<u>Yuchen Hu</u>\***, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang. [[Demo]](https://yuchen005.github.io/UNO-TTS-demos/)
@@ -114,14 +112,6 @@ My research topics are:
 
 
 # 💻 Internships & Collabration
-
-**Shanghai AI Lab**, *11/2024 - Present*
-* Research collabration. Supervisor: Chao Zhang.
-* Work on omni and full-duplex speech dialog systems.
-
-**Tencent AI Lab**, *02/2024 - 09/2024*
-* Research intern. Supervisor: Yu Gu.
-* Work on video-to-audio generation.
 
 **Iflytek AI Research &amp; USTC NEL-SLIP**, *05/2020 - 07/2021*
 * Research intern. Supervisor: Lirong Dai.
